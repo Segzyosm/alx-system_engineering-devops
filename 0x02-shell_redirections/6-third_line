@@ -1,0 +1,2 @@
+#!/bin/bash
+head -m 3 lacta | -n 1
